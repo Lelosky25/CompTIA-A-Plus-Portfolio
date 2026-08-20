@@ -1,0 +1,79 @@
+# Connecting a Wireless Mouse and Keyboard
+
+## Objective
+
+Connect a wireless mouse and keyboard to a laptop using a USB wireless receiver and verify that both devices function correctly.
+
+## Equipment
+
+* Laptop
+* Wireless mouse
+* Wireless keyboard
+* USB wireless receiver
+
+## Procedure
+
+### Step 1 — Connect the USB Receiver
+
+The USB wireless receiver was connected to an available USB port on the laptop.
+
+**Result:**
+The laptop detected the wireless receiver.
+
+**Screenshot:**
+
+*Add screenshot here.*
+
+---
+
+### Step 2 — Turn On the Wireless Mouse
+
+The wireless mouse was switched on using its power switch.
+
+**Result:**
+The mouse connected to the USB receiver and was available for use.
+
+**Screenshot:**
+
+*Add screenshot here.*
+
+---
+
+### Step 3 — Turn On the Wireless Keyboard
+
+The wireless keyboard was switched on.
+
+**Result:**
+The keyboard connected to the wireless receiver and was available for use.
+
+**Screenshot:**
+
+*Add screenshot here.*
+
+---
+
+## Testing
+
+The mouse was tested by moving the cursor and clicking different areas of the screen.
+
+The keyboard was tested by typing text into a text editor.
+
+**Result:**
+Both wireless input devices functioned correctly.
+
+## What I Learned
+
+This lab demonstrated how wireless input devices communicate with a computer through a USB receiver using radio frequency (RF) communication. I also practiced connecting and testing external computer peripherals.
+
+## Skills Practiced
+
+* Hardware installation
+* USB connections
+* Wireless peripherals
+* RF communication
+* Device troubleshooting
+* Hardware verification
+
+## Lab Status
+
+**Completed**
